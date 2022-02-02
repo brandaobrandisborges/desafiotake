@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKkBmsG00Z0DkeTkuEypBvuIdmgUiqkrZThnDGvZQjdBNEoBaAnztpkdsxfc+VGcwr9hO7hx3lI5t79mepoNlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.borges\\Downloads\\take\\desafio2\\Blip.Api.Template.K8s-master\\Blip.Api.Template.K8s-master\\content\\Api\\Blip.Api.Template.Models\\Blip.Api.Template.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.borges\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
