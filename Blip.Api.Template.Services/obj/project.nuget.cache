@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqYOmE/bGOHMFDhNS75fFmJnWHoO+nIq2a43ImUt6fois9piW1eCq8eYtb5rajuopZjgi707inbWb74un3weQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno.borges\\Downloads\\take\\desafio2\\Blip.Api.Template.K8s-master\\Blip.Api.Template.K8s-master\\content\\Api\\Blip.Api.Template.Services\\Blip.Api.Template.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno.borges\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\bruno.borges\\.nuget\\packages\\restease\\1.0.0\\restease.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'RestEase 1.0.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETStandard,Version=v2.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "RestEase",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

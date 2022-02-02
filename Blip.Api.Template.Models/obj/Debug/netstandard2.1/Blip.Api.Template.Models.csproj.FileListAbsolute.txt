@@ -1,0 +1,10 @@
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\bin\Debug\netstandard2.1\Blip.Api.Template.Models.deps.json
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\bin\Debug\netstandard2.1\Blip.Api.Template.Models.dll
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\bin\Debug\netstandard2.1\Blip.Api.Template.Models.pdb
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\obj\Debug\netstandard2.1\Blip.Api.Template.Models.csproj.AssemblyReference.cache
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\obj\Debug\netstandard2.1\Blip.Api.Template.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\obj\Debug\netstandard2.1\Blip.Api.Template.Models.AssemblyInfoInputs.cache
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\obj\Debug\netstandard2.1\Blip.Api.Template.Models.AssemblyInfo.cs
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\obj\Debug\netstandard2.1\Blip.Api.Template.Models.csproj.CoreCompileInputs.cache
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\obj\Debug\netstandard2.1\Blip.Api.Template.Models.dll
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Models\obj\Debug\netstandard2.1\Blip.Api.Template.Models.pdb

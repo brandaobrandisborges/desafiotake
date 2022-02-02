@@ -1,0 +1,15 @@
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\bin\Debug\netstandard2.1\Blip.Api.Template.Facades.deps.json
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\bin\Debug\netstandard2.1\Blip.Api.Template.Facades.dll
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\bin\Debug\netstandard2.1\Blip.Api.Template.Facades.pdb
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\bin\Debug\netstandard2.1\Blip.Api.Template.Models.dll
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\bin\Debug\netstandard2.1\Blip.Api.Template.Services.dll
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\bin\Debug\netstandard2.1\Blip.Api.Template.Models.pdb
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\bin\Debug\netstandard2.1\Blip.Api.Template.Services.pdb
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.csproj.AssemblyReference.cache
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.AssemblyInfoInputs.cache
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.AssemblyInfo.cs
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.csproj.CoreCompileInputs.cache
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.csproj.CopyComplete
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.dll
+C:\Users\bruno.borges\Downloads\take\desafio2\Blip.Api.Template.K8s-master\Blip.Api.Template.K8s-master\content\Api\Blip.Api.Template.Facades\obj\Debug\netstandard2.1\Blip.Api.Template.Facades.pdb

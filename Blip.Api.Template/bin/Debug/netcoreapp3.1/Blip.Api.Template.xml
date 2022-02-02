@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Blip.Api.Template</name>
+    </assembly>
+    <members>
+        <member name="M:Blip.Api.Template.Controllers.RepositoryController.GetRepositoriesAsync">
+            <summary>
+            get repositories from Takenet @ github
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Blip.Api.Template.Middleware.ErrorHandlingMiddleware">
+            <summary>
+            Wraps all controller actions with a try-catch latch to avoid code repetition
+            </summary>
+        </member>
+        <member name="M:Blip.Api.Template.Middleware.ErrorHandlingMiddleware.InvokeAsync(Microsoft.AspNetCore.Http.HttpContext)">
+            <summary>
+            Invoke Method, to validate requisition errors
+            </summary>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
