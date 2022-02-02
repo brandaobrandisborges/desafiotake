@@ -70,7 +70,7 @@ Você deverá construir um chatbot em nossa plataforma, para isso, você pode se
 
 ### Seguem links que podem auxiliar em seu desafio:
 
-Fluxo do bot: https://bit.ly/3bxfe9F
-Documentação do BLiP com todos os tipos de card e exemplos: https://docs.blip.ai/
-Documentação de como criar um bot no Builder: https://bit.ly/3tw7zRR
-Documentação da API do GitHub: https://developer.github.com/v3/														
+- Fluxo do bot: https://bit.ly/3bxfe9F
+- Documentação do BLiP com todos os tipos de card e exemplos: https://docs.blip.ai/
+- Documentação de como criar um bot no Builder: https://bit.ly/3tw7zRR
+- Documentação da API do GitHub: https://developer.github.com/v3/														
